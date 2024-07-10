@@ -1,5 +1,7 @@
 - 👋 Hello, I'm Moritz Leubner.
-- 👀 I'm interested in programming apps, plugins and websites with Java, Python and HTML(+ CSS and Javascript).
-- 🌱 I'm just learning to program Bukkit plugins for Minecraft
-- 💞️ I am looking for collaborations of any kind of project
-- 📫 You can reach me if you send me a mail (moritz.leubner@icloud.com)
+- 👀 I'm interested in programming apps, plugins and websites
+- ⚙️ I have advanced programming skills in Python, Java and PHP
+- 🛠️Also I'm learning a bit of C++ and JavaScript and know some basics for HTML and CSS
+- 🌱 I'm interested in learning more about neural networks with Python and PyTorch
+- 💞️ I am looking for collaboration on any kind of project
+- 📫 You can reach me by sending an email to moritz.leubner@proton.me
