@@ -3,5 +3,4 @@
 - ⚙️ I have advanced programming skills in Python, Java and PHP
 - 🛠️Also I'm learning a bit of C++ and JavaScript and know some basics for HTML and CSS
 - 🌱 I'm interested in learning more about neural networks with Python and PyTorch
-- 💞️ I am looking for collaboration on any kind of project
 - 📫 You can reach me by sending an email to moritz.leubner@proton.me
